@@ -1,0 +1,18 @@
+tahapan ke github
+- npm init
+- lalu dienter saja sampai git repository
+- isi git repository: dengan https://git kita copy dan paste
+- isi keywords: rest api, nodejs
+- author: ade rahman
+- enter
+- lalu ketik yes
+===================================
+di gitblash buka visual studio code
+- code .
+===================================
+push ke git
+- git init
+- git add .
+- git commit -m "awal aplikasi"
+- git remote add origin httpsgitupitaapprest.git
+- git remote -v
