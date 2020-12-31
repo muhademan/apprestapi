@@ -1,0 +1,5 @@
+npm i morgan //package untuk membuat request yang di apache menggunakan http request
+
+npm install ip //untuk mengetahui siapa yang login di web kita
+
+npm install jsonwebtoken
